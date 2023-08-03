@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- The navigation links could be hidden into a dropdown menu.
+- Add a fixed button that takes the user to the top of the page.
+- Add animation to logo.
