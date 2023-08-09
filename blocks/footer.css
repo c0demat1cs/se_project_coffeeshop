@@ -7,12 +7,15 @@
 
 .footer__content {
   display: flex;
+  justify-content: space-between;
 }
 
 .footer__logo {
   width: 105px;
   height: 39px;
-  justify-content: flex-start;
+}
+
+.footer_social {
 }
 
 .footer__social-heading {
@@ -44,6 +47,7 @@
 }
 
 .footer__social-link {
+  align-items: center;
   color: #fff;
   text-decoration: none;
   font-size: 16px;

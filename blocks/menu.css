@@ -1,7 +1,10 @@
 .menu {
   padding: 100px 0 100px;
-  background-image: url(/images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   background-color: #fff;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .menu__title {
